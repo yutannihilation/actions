@@ -1,4 +1,4 @@
-# development version
+# `v2.11.0` (2024-11-09)
 
 * `[setup-r-dependencies]` parameter `pak-version` can now be `repo` or
   `none` as well. `repo` means that the action will install pak from
