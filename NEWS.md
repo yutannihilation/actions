@@ -21,6 +21,9 @@
 * `[setup-renv]` now correctly accepts `bypass-cache: never`, as stated
   in the documentation.
 
+* `[setup-r-dependencies]` now saves the package cache correctly on
+  Windows with older R (#940).
+
 # `v2.10.1` (2024-08-08)
 
 * `[setup-r-dependencies]` now pins `quarto-dev/quarto-actions/setup`
